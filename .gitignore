@@ -1,0 +1,24 @@
+.vscode/*
+
+# Build artifacts
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# Common build folders
+build/
+bin/
+Debug/
+Release/
+
+# OS and editor files
+*.DS_Store
+Thumbs.db
+*~
+*.swp
+core
